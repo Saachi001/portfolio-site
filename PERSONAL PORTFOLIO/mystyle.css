@@ -1,0 +1,43 @@
+
+#navbar {
+     font-family: forte;
+     display: flex;
+     font-weight: bold;
+     line-height: 400%;
+     font-size: x-large;
+    
+}
+#navbar ul{
+    list-style: none;
+}
+#navbar li a{
+    text-decoration: none;
+    color: #cfb53b;
+    transition: background-color 0.3s;
+}
+#navbar li a:hover{
+    background-color: #0adf;
+}
+/* utility classes*/
+.container{
+    max-width: 1200px;
+    margin: auto;
+}
+#top{
+    font-weight: bold;
+    font-style: italic;
+    line-height: 1.8%;
+    color: #f0f0f0;
+    display: flex;
+    background: #333;
+    justify-content: space-between;
+    color: #fff
+}
+.btn{
+    text-decoration-color: none;
+    color: #fcd7df;
+}
+/*showcase area*/
+#showcase {
+ background: url(..image/graylaptop.jpg);
+}
