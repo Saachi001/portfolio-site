@@ -1,2 +1,2 @@
 # portfolio-site
-portfolio
+its just HTML and CSS only
